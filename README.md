@@ -1,8 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Brain~Wave  
 
-Currently, two official plugins are available:
+Brain~Wave is an interactive web application designed to enhance cognitive
+engagement through a user-friendly interface. Built with **HTML, CSS, and JavaScript(React + Vite), it offers an intuitive 
+experience for users to explore and interact with brain-stimulating activities.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features  
+- **Responsive Design** – Optimized for various screen sizes.  
+- **Interactive UI** – Engaging animations and smooth navigation.  
+- **Lightweight & Fast** – Minimal load times for better performance.  
+
+## Live Demo  
+Check it out here: [Brain~Wave](https://sanjanadissa.github.io/BrainWave/)  
+
